@@ -1,3 +1,4 @@
+wow
 ### Objectives:
 1. Understand how ActiveRecord abstracts powerful methods for you.
 2. Identify how to inherit your models.
